@@ -45,43 +45,43 @@ jupyter lab
 
 The Voila web applicaiton results is saved in the `Screenshot` folder. The screenshots include:
 
-![  ](Screenshot/1.png)
+![  ](Screenshot/1.PNG)
 
 
-![  ](Screenshot/2.png)
+![  ](Screenshot/2.PNG)
 
 
-![  ](Screenshot/3.png)
+![  ](Screenshot/3.PNG)
 
 
-![  ](Screenshot/4.png)
+![  ](Screenshot/4.PNG)
 
 
-![  ](Screenshot/5.png)
+![  ](Screenshot/5.PNG)
 
 
-![  ](Screenshot/6.png)
+![  ](Screenshot/6.PNG)
 
 
-![  ](Screenshot/7.png)
+![  ](Screenshot/7.PNG)
 
 
-![  ](Screenshot/8.png)
+![  ](Screenshot/8.PNG)
 
 
-![  ](Screenshot/9.png)
+![  ](Screenshot/9.PNG)
 
 
-![  ](Screenshot/10.png)
+![  ](Screenshot/10.PNG)
 
 
-![  ](Screenshot/11.png)
+![  ](Screenshot/11.PNG)
 
 
-![  ](Screenshot/12.png)
+![  ](Screenshot/12.PNG)
 
 
-![  ](Screenshot/13.png)
+![  ](Screenshot/13.PNG)
 
 ---
 
